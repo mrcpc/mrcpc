@@ -1,4 +1,4 @@
-👋 Hello, my name is Clifford but I go by @mrcpc.
+👋 Hello, my name is Clifford but I go by @mrcpc/@mrcpcjr.
     
 I am learning Python, SQL, Solidity, and React. This is my repository. As I keep on learning, I will be adding to my github. 
 I am interested in machine learning, smart contracts, neural networks, algorithms, etc.
